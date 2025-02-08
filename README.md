@@ -27,7 +27,7 @@ I love participating in **hackathons**, solving real-world problems, and continu
 ---
 
 ## 🏆 Projects & Hackathons  
-- 🔹 **Cryptic Bird** - A Java-based game integrating blockchain rewards  
+- 🔹 **Cryptic Bird** - A Java-based game integrating blockchain rewards [developed at DevJams 2024 conducted by GDSC, VIT VELLORE]  
 - 🔹 **[More on my GitHub](https://github.com/sameer-codes-ai?tab=repositories)**  
 
 ---
