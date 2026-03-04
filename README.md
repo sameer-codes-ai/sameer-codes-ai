@@ -12,7 +12,7 @@ I'm a Computer Science student at Vellore Institute of Technology, Vellore (VIT-
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=sameer-codes-ai&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-codes-ai&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-codes-ai&layout=compact&theme=dark&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sameer-codes-ai&theme=react-dark)
 
