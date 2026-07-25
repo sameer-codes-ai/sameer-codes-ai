@@ -37,15 +37,15 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/sameer4350">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sameer9085kumar@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/sameer_codes">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
