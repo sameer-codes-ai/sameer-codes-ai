@@ -1,92 +1,202 @@
-<h1 align="center">Hi 👋, I'm Sameer Kumar</h1>
-<h3 align="center">Computer Science Student at VIT Vellore | Web Dev • AI • Blockchain</h3>
+<div align="center">
+
+# Hey, I'm Sameer Kumar 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Competitive+Programmer;Hackathon+Builder" />
+
+<img src="https://komarev.com/ghpvc/?username=sameer-codes-ai&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
 # 💫 About Me
-- 🎓 Computer Science student at **Vellore Institute of Technology, Vellore**
-- 💡 Passionate about **Web Development, AI, and Blockchain**
-- 🚀 Love building projects, participating in **hackathons**, and solving real-world problems
-- 🌱 Currently exploring **AI for Sustainability**
-- ⚡ Interested in **Decentralized Applications (DApps) and Smart Contracts**
+
+🎓 B.Tech Computer Science student at **VIT Vellore**
+
+💻 Passionate about building products using **Web Development, AI, and Blockchain**
+
+🚀 Love participating in **Hackathons**, solving **DSA**, and shipping real-world projects
+
+🌱 Currently exploring
+
+- Large Language Models (LLMs)
+- AI for Sustainability
+- System Design
+- Blockchain & Smart Contracts
+
+🎯 2026 Goals
+
+- ⭐ 1900+ LeetCode Rating
+- 🚀 Publish AI research
+- 🏆 Win National Hackathons
+- 🌍 Build impactful open-source projects
 
 ---
 
-# 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sameer_codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer4350)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameersinghskk68@gmail.com)
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## Languages
 
-### Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript"/>
+</p>
 
-### Backend / APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+## Frontend
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs"/>
+</p>
 
-### AI / Data Science
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## Backend
 
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,nestjs"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb"/>
+</p>
+
+## AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+NumPy • Pandas • scikit-learn
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,canva"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎬 LeetFlix V3
+
+A modern competitive programming platform inspired by streaming platforms.
+
+**Tech Stack**
+
+Next.js • NestJS • Firebase • TypeScript
 
 ---
 
-# 📊 GitHub Stats
+### 🚦 AI Traffic Vision
 
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer-codes-ai&show_icons=true&theme=dark)
+Object Detection & Computer Vision for Smart Traffic Systems
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sameer-codes-ai&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-codes-ai&layout=compact&theme=dark)
+- YOLO
+- Deep Learning
+- Image Annotation
+- Traffic Analytics
 
 ---
-## 🚀 Featured Projects
-- LeetFlix – Competitive programming practice platform
-- AI Sustainability Analyzer
-- Blockchain Voting System
 
-# 📈 Contribution Graph
+### 🌱 AI Sustainability Analyzer
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sameer-codes-ai&theme=react-dark)
+Machine Learning solution for sustainability analysis and recommendations.
+
+---
+
+### 🗳 Blockchain Voting System
+
+Secure decentralized voting using Blockchain & Smart Contracts.
+
+---
+
+# 🏆 Achievements
+
+🥇 Rank **11** — Urban Vision AI Hackathon (Phase 2)
+
+💻 Solved **500+ DSA Problems**
+
+🏅 Top **22%** in LeetCode Weekly Contest 503
+
+🎖 Gold Medal of Distinction — National Science Olympiad (SOF)
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sameer-codes-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-codes-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-codes-ai&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sameer-codes-ai&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sameer-codes-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=sameer-codes-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
 
 ---
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# ⚡ Fun Fact
+
+```cpp
+while(!Success)
+{
+    Learn();
+    Build();
+    Fail();
+    Improve();
+}
+return Success;
+```
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=sameer-codes-ai&icon=0&color=0)
+# ✍️ Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
