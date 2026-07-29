@@ -116,19 +116,9 @@ Object Detection & Computer Vision for Smart Traffic Systems
 - Image Annotation
 - Traffic Analytics
 
----
-
-### 🌱 AI Sustainability Analyzer
-
-Machine Learning solution for sustainability analysis and recommendations.
 
 ---
 
-### 🗳 Blockchain Voting System
-
-Secure decentralized voting using Blockchain & Smart Contracts.
-
----
 
 # 🏆 Achievements
 
